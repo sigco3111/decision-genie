@@ -5,7 +5,9 @@
 
 "고민 결정 마법사"는 사용자의 고민에 대해 객관식 질문을 통해 정보를 수집하고, Google Gemini AI를 활용하여 맞춤형 결정과 그 이유, 장단점, 관련 정보 링크까지 제공하는 의사결정 보조 웹 애플리케이션입니다.
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/decision-genie/
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/decision-genie/)
 
 ## 🎯 주요 기능
 
